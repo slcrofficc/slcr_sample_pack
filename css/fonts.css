@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	url "../fonts/Aquire/Aquire.wwof" format "woff",
+	url "../fonts/Aquire/Aquire.ttf" format "truetype";
+	font-style: Light;
+	font-weight: normal;
+}

@@ -1,0 +1,106 @@
+.container{
+	width:1170px;
+	margin:0 auto;
+}
+.header {
+	background:url("../img/bghead.jpg") no-repeat center top;
+}
+.footer {
+	background:url("../img/bghead.jpg") no-repeat center top;
+}
+.text{
+	color: white;
+	font-family: "Aquire";
+	font-style: Light;
+	font-weight: normal;
+	vertical-align: middle;
+	display: inline-block;
+	margin-top: 40px;
+}
+.nav {
+	text-align: center;
+}
+.section{
+	background:url("../img/bghead.jpg") no-repeat center top; 
+}
+.button {
+	display: inline-block;	
+	box-sizing: border-box;
+	padding: 0 25px;
+	margin: 0 90px 200px 0;
+	outline: none;
+	border: 1px solid #000;
+	border-radius: 100px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 25px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #fff;
+	background-color: #000;
+	cursor: pointer;
+	appearance: none;  
+	vertical-align: top;
+	transition: box-shadow 0.2s;
+	font-family: "Aquire";
+	font-style: Light;
+	font-weight: normal;
+}
+.butts {
+	display: flex;
+	transform: translate(84px) translateY(60px);
+	margin-top: 50px;
+}
+#ty {
+	transform: translateY(-15px);
+}
+.text2{
+	color: rgba(0, 0, 0, 0);
+	font-family: "Aquire";
+	font-style: Light;
+	font-weight: normal;
+	vertical-align: middle;
+	display: inline-block;
+	margin-top: 165px;
+	font-size: 100px;
+}
+.logo {
+	transform: translateY(10px);
+}
+.dwlbtt {
+	display: inline-block;	
+	box-sizing: border-box;
+	padding: 0 25px;
+	margin: 0 90px 200px 0;
+	outline: none;
+	border: 1px solid #000;
+	border-radius: 100px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 25px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #fff;
+	background-color: #000;
+	cursor: pointer;
+	appearance: none;  
+	vertical-align: top;
+	transition: box-shadow 0.2s;
+	font-family: "Aquire";
+	font-style: Light;
+	font-weight: normal;
+	margin: 0 auto;
+}
+#slider {
+	border: 5px solid white;
+	background-color: white;
+	border-radius: 100px;
+	overflow: hidden;
+}
+.b {
+	color: black;
+}
+#div1 {
+	display: none;
+	transform: translateY(-80px);
+}
