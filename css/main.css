@@ -104,3 +104,11 @@
 	display: none;
 	transform: translateY(-80px);
 }
+.text3 {
+	color: white;
+	font-family: "Aquire";
+	font-style: Light;
+	font-weight: normal;
+	vertical-align: middle;
+	display: inline-block;
+}
