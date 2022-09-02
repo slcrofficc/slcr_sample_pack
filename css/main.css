@@ -11,6 +11,10 @@
 .text{
 	color: white;
 	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	src: url("../fonts/Aquire/Aquire.wwof")format("woff");
+	src: url("../fonts/Aquire/Aquire.ttf")format("truetype");
 	font-style: Light;
 	font-weight: normal;
 	vertical-align: middle;
@@ -43,6 +47,10 @@
 	vertical-align: top;
 	transition: box-shadow 0.2s;
 	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	src: url("../fonts/Aquire/Aquire.wwof")format("woff");
+	src: url("../fonts/Aquire/Aquire.ttf")format("truetype");
 	font-style: Light;
 	font-weight: normal;
 }
@@ -57,6 +65,10 @@
 .text2{
 	color: rgba(0, 0, 0, 0);
 	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	src: url("../fonts/Aquire/Aquire.wwof")format("woff");
+	src: url("../fonts/Aquire/Aquire.ttf")format("truetype");
 	font-style: Light;
 	font-weight: normal;
 	vertical-align: middle;
@@ -87,6 +99,10 @@
 	vertical-align: top;
 	transition: box-shadow 0.2s;
 	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	src: url("../fonts/Aquire/Aquire.wwof")format("woff");
+	src: url("../fonts/Aquire/Aquire.ttf")format("truetype");
 	font-style: Light;
 	font-weight: normal;
 	margin: 0 auto;
@@ -107,6 +123,10 @@
 .text3 {
 	color: white;
 	font-family: "Aquire";
+	src: url("../fonts/Aquire/Aquire.eot");
+	src: url("../fonts/Aquire/Aquire.eot?#iefix")format("embedded-opentype");
+	src: url("../fonts/Aquire/Aquire.wwof")format("woff");
+	src: url("../fonts/Aquire/Aquire.ttf")format("truetype");
 	font-style: Light;
 	font-weight: normal;
 	vertical-align: middle;
