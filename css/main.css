@@ -10,7 +10,7 @@
 }
 .text{
 	color: white;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Aquire";
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
@@ -41,7 +41,7 @@
 	appearance: none;  
 	vertical-align: top;
 	transition: box-shadow 0.2s;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Aquire";
 	font-weight: normal;
 }
 .butts {
@@ -54,7 +54,7 @@
 }
 .text2{
 	color: rgba(0, 0, 0, 0);
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Aquire";
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
@@ -83,7 +83,7 @@
 	appearance: none;  
 	vertical-align: top;
 	transition: box-shadow 0.2s;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Aquire";
 	font-weight: normal;
 	margin: 0 auto;
 }
@@ -102,7 +102,7 @@
 }
 .text3 {
 	color: white;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Aquire";
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
