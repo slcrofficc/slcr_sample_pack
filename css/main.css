@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 .text{
 	color: white;
 	font-family: "Aquire";
-	font-style: Light;
+	font-style: normal;
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6{
 	vertical-align: top;
 	transition: box-shadow 0.2s;
 	font-family: "Aquire";
-	font-style: Light;
+	font-style: normal;
 	font-weight: normal;
 }
 .butts {
@@ -61,7 +61,7 @@ h1,h2,h3,h4,h5,h6{
 .text2{
 	color: rgba(0, 0, 0, 0);
 	font-family: "Aquire";
-	font-style: Light;
+	font-style: normal;
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6{
 	vertical-align: top;
 	transition: box-shadow 0.2s;
 	font-family: "Aquire";
-	font-style: Light;
+	font-style: normal;
 	font-weight: normal;
 	margin: 0 auto;
 }
@@ -111,7 +111,7 @@ h1,h2,h3,h4,h5,h6{
 .text3 {
 	color: white;
 	font-family: "Aquire";
-	font-style: Light;
+	font-style: normal;
 	font-weight: normal;
 	vertical-align: middle;
 	display: inline-block;
