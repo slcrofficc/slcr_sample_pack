@@ -41,8 +41,7 @@
 	appearance: none;  
 	vertical-align: top;
 	transition: box-shadow 0.2s;
-	font-family: "Aquire";
-	font-style: normal;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: normal;
 }
 .butts {
@@ -84,8 +83,7 @@
 	appearance: none;  
 	vertical-align: top;
 	transition: box-shadow 0.2s;
-	font-family: "Aquire";
-	font-style: normal;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: normal;
 	margin: 0 auto;
 }
